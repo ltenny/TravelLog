@@ -20,7 +20,7 @@ export default function Homepage() {
         <h3>
           <i>
             <p>
-              This is my React portfolio site. <b>Travel Log</b>, is my latest
+              This is my React portfolio site. <b>Travel Log</b> is my latest
               portfolio project.
             </p>
             <p>

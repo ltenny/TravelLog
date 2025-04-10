@@ -13,7 +13,7 @@ function Sidebar() {
 
       <footer className={styles.footer}>
         <p className={styles.copyright}>
-          &copy; Copyright {new Date().getFullYear()} by larrytenny.rocks !!.
+          &copy; Copyright {new Date().getFullYear()} by larrytenny.rocks.
         </p>
       </footer>
     </div>
