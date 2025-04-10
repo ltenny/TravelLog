@@ -17,15 +17,20 @@ export default function Homepage() {
           of. Never forget your wonderful experiences, and show your friends how
           you have wandered the world.
         </h2>
-        <h2>
+        <h3>
           <i>
-            This is a sample React.js application just for demo purposes. The
-            code is available at my respository on{" "}
-            <a href="https://github.com/ltenny/TravelLog">Github</a>. This
-            entire application runs in the browser and is served from a static
-            website. Just accept the default user "Jack" at login and enjoy!
+            <p>
+              This is my React portfolio site. <b>Travel Log</b>, is my latest
+              portfolio project.
+            </p>
+            <p>
+              This is a sample application is for demo purposes only. The code
+              is available at my respository on{" "}
+              <a href="https://github.com/ltenny/TravelLog">Github</a>.
+            </p>
+            <p>Just accept the default user "Jack" at login and enjoy!</p>
           </i>
-        </h2>
+        </h3>
         <Link to="/login" className="cta">
           Start tracking now
         </Link>
