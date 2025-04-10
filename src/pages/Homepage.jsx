@@ -20,7 +20,7 @@ export default function Homepage() {
         <h2>
           <i>
             This is a sample React.js application just for demo purposes. The
-            code is available on{" "}
+            code is available at my respository on{" "}
             <a href="https://github.com/ltenny/TravelLog">Github</a>. This
             entire application runs in the browser and is served from a static
             website. Just accept the default user "Jack" at login and enjoy!
